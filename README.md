@@ -5,6 +5,7 @@
 [![E-MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edmariosantoss@outlook.com)
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/edmarosantos)
 
+![Edmario Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Edmarioo&show_icons=true&theme=radical)
 
 
 ## Tecnologias que eu uso no meu dia e que estou em aprendizado.🖥️
